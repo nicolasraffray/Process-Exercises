@@ -1,0 +1,8 @@
+# JavaScript & TypeScript
+node_modules
+
+# Python
+.env
+.pytest_cache
+__pycache__
+
